@@ -19,17 +19,6 @@ Library Management System is a software application used to manage library opera
 - MySQL
 - IntelliJ IDEA / Eclipse
 
-## 📂 Project Structure
-LibraryManagementSystem/
-│
-├── src/
-│ ├── model/
-│ ├── database/
-│ ├── service/
-│ └── main/
-│
-├── pom.xml
-└── README.md
 
 ## 🗄 Database
 Database Name: library_db
